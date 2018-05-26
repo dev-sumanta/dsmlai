@@ -1,7 +1,7 @@
 # Code examples for workshop on introductory pytho, machine learning and artificial intelligence
 # Specifically, topics covered:
-# Introduction to Python
-# Numpy, Pandas and Matplotlilb Visualization
+### Introduction to Python
+### Numpy, Pandas and Matplotlilb Visualization
 # Linear Regression
 # Logistic Regression
 # Naive Bayes
