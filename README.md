@@ -1,4 +1,4 @@
-# Code examples for workshop on introductory pytho, machine learning and artificial intelligence
+# Code examples for workshop on introductory python, machine learning and artificial intelligence
 # Specifically, topics covered:
 #### Introduction to Python
 #### Numpy, Pandas and Matplotlilb Visualization
